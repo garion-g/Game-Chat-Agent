@@ -98,6 +98,7 @@ After completing the basic implementation, you can enhance your agent with:
 - Test your implementation with various types of queries
 
 ## Help
-https://knowledge.udacity.com/questions/1080258
-https://knowledge.udacity.com/questions/1071190
-https://knowledge.udacity.com/questions/1071698
+- https://knowledge.udacity.com/questions/1080258
+- https://knowledge.udacity.com/questions/1071190
+- https://knowledge.udacity.com/questions/1071698
+- https://knowledge.udacity.com/questions/1071216
